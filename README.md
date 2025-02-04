@@ -1,6 +1,6 @@
-# {reponame}
+# FlameProxy
 
-<h3 align="center"><img src="media/demo.png"></h3>
+<image>(https://github.com/user-attachments/assets/c599f28c-800e-4d57-b03f-426f353bd7aa)
 
 <p align="center">
   <a href="#about">About</a> •
@@ -11,14 +11,12 @@
 
 ## About
 
-This section should provide a concise introduction to the application, explaining its primary function and the problem it addresses. 
-
+Flame proxy is a open source proxy made by me to bypass securly. PS: securly is ass
 ## Features
 
-- Feature 1: Describe the first key feature of the app. Explain how it benefits the user or improves upon existing solutions.
+- a browser in your browser with an about:blank cloaker! 🐱
 
-- Feature 2: Describe the second key feature, focusing on its functionality and any integration capabilities with other tools or platforms.
-
+- a proxy
 - Feature 3: Outline a third feature, detailing its use case and any user-driven components or customization options.
 
 - Add more features as needed...
